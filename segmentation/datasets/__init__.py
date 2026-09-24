@@ -1,0 +1,2 @@
+from .spectralwaste import SpectralWasteSegmentation, SemanticSegmentationTrain, SemanticSegmentationTest
+from .opentextile import OpenTextileSegmentation
